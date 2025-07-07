@@ -1,91 +1,95 @@
 # 🌾 Empowering Farmers through HCI-Based Agricultural & Livestock Guidance
 
-> **An inclusive mobile solution for rural farmers using Human-Computer Interaction (HCI) principles.**
+> **A Human-Computer Interaction (HCI) project with a user-centered prototype built in Figma.**
 
 ---
 
-## 📌 Project Overview
+## 💡 About the Project
 
-Many rural farmers struggle to access accurate, timely, and easy-to-understand information on farming and animal husbandry. This project addresses that gap by building a mobile application with user-friendly, low-tech features that are inclusive for farmers with **limited digital literacy**, **poor internet access**, and **minimal formal education**.
+This is a Human-Computer Interaction (HCI) design project aimed at supporting rural farmers and livestock caretakers in Bangladesh. Many of them lack digital literacy, access to expert support, and up-to-date agricultural knowledge. Our goal was to design an easy, accessible, and inclusive mobile app prototype that addresses these needs using HCI principles.
 
 ---
 
-## 🎯 Key Features
+## 🎨 Designed in Figma
+
+We created a **high-fidelity prototype** using **Figma**, focusing on:
+- Simple UI for low-literacy users
+- Local language and voice input support
+- Offline functionality for remote users
+- Participatory design based on real farmer feedback
+
+👉 **[View the Figma Prototype](https://www.figma.com/design/iUxRg7zWec5NqjPUTCkuzC/HCI_figma)**
+
+---
+
+## 📱 Key Features of the App (Prototype)
 
 | Module                  | Description |
 |------------------------|-------------|
-| 🐮 **SnapFarm Diagnosis** | Upload crop/livestock images or describe problems using **voice input** for quick diagnosis. |
-| 🎓 **Virtual Academy**     | Live and recorded **video-based tutorials** on farming and animal care. |
-| ⚠️ **Watch Alerts**        | Real-time updates on **weather**, **diseases**, **government notices**, and **medicine availability**. |
-| 📚 **Information Desk**    | A searchable offline guide with **farming tips**, **treatment info**, and **best practices**. |
-| 👤 **User Profile & Registration** | NID-based registration and role selection (farmer/livestock keeper) to personalize content. |
+| 🐮 **SnapFarm Diagnosis** | Upload photos or use voice input to identify crop/livestock diseases. |
+| 🎓 **Virtual Academy**     | Access live or recorded videos on crop/animal care. |
+| ⚠️ **Watch Alerts**        | Receive weather updates, disease alerts, and government notices. |
+| 📚 **Information Desk**    | Searchable offline guide for farming and livestock FAQs and tips. |
+| 👤 **User Profile & Registration** | Register using NID and profession to receive personalized guidance. |
 
-> ✅ **Voice Typing**, **Offline Access**, **Bangla Support**, and **Visual Icons** ensure accessibility.
+> ✅ Voice input, Bangla support, offline access, and visual icons were added based on user testing.
 
 ---
 
-## 🧠 HCI Research and Design Principles Used
+## 🧠 HCI Design Approach
 
-- **Participatory Design**: Farmers contributed ideas and feedback during every phase.
-- **Think-Aloud User Testing**: Real users tested the prototype while speaking aloud their thoughts.
-- **Task-Based Scenarios**: Hands-on tasks like uploading pictures, watching videos, or searching tips were tested.
-- **Low Literacy Interface**: Visual-first, icon-driven layout with voice support.
+- 🎯 **User-Centered Design**: Farmers helped define features.
+- 🎤 **Think-Aloud Testing**: Users tested while voicing their thoughts.
+- ✅ **Task-Based Scenarios**: Uploading images, watching videos, searching tips.
+- 🧭 **Simple Navigation**: Large buttons, icon-based layout, voice-friendly interface.
+
+---
+
+## 🧪 User Research
+
+- 👥 **8 farmers interviewed** (4 crop + 4 livestock)
+- 🧾 **Methods**: Phone interviews, notes, questionnaires
+- 💬 **Insights**:
+  - Prefer voice over typing
+  - Need offline access
+  - Requested community forums and access to affordable seeds/medicines
 
 ---
 
 ## 🔬 Literature Review Highlights
 
-- AI-based disease detection in crops using CNNs.
-- AR-enabled crop monitoring and decision support.
-- Voice-first, offline systems increase usage in low-literacy communities.
-- Smart cattle systems and wearable tracking in livestock health monitoring.
-- Importance of **trust**, **simplicity**, and **localization** in agricultural apps.
-
----
-
-## 📊 User Study Summary
-
-- **Participants**: 8 farmers (4 crop, 4 livestock)
-- **Methods**: Interviews, phone calls, questionnaires
-- **Feedback Included**:
-  - Voice features are preferred over typing
-  - Offline access is essential
-  - Desire for access to medicines and seeds
-  - Request for community chat feature
-
----
-
-## 🖥️ High-Fidelity Prototype (Figma)
-
-- Simplified navigation  
-- Better icons and color contrast  
-- Timestamped video lessons  
-- Enhanced registration form  
-
-👉 [View Prototype on Figma](https://www.figma.com/design/iUxRg7zWec5NqjPUTCkuzC/HCI_figma)
-
----
-
-## 🧪 Future Enhancements
-
-| Area                 | Plan |
-|----------------------|------|
-| 📡 **Full Offline Support** | Add offline syncing of videos and alerts. |
-| 🛒 **Supply Chain Access** | Let farmers find/order seeds, fertilizers, medicines. |
-| 🌐 **Community Hub** | Forum/chat system for farmer-to-farmer Q&A. |
-| 🏥 **Telehealth** | Enable live consultations with vets. |
+- AI-powered crop disease detection using images
+- AR-based crop monitoring for real-time decision-making
+- Importance of voice interfaces, local language, and trust in rural tech
+- Community-driven learning improves long-term app usage
 
 ---
 
 ## 🚧 Limitations
 
-- Small user base (regional sample only)
-- Limited long-term usage testing
-- No built-in seed or medicine marketplace
-- Community and telehealth features not yet implemented
+- Small sample size (single region)
+- Limited offline support for video content
+- No built-in supply access or community hub (planned for future)
+
+---
+
+## 🔮 Future Enhancements
+
+| Feature | Plan |
+|--------|------|
+| 📡 Offline video syncing | Download videos periodically for offline use |
+| 🛒 Supply chain access | Let farmers order seeds, fertilizer, and medicine |
+| 🌐 Community hub | Farmer-to-farmer Q&A forum |
+| 🏥 Telehealth | Remote vet consultations for livestock issues |
 
 ---
 
 ## ✅ Conclusion
 
-This project offers an inclusive digital tool for marginalized rural communities. It blends **AI**, **user-centered design**, and **voice-first interaction** to help farmers independently solve crop and animal problems. With more development, it can evolve into a full smart farming ecosystem.
+This HCI project successfully demonstrates how a simple, voice-supported, mobile solution can address real problems faced by rural farmers. Through participatory design, thoughtful research, and inclusive prototyping in Figma, we offer a strong base for a scalable smart agriculture app.
+
+---
+
+👨‍💻 **Developed by:**  
+Emon Karmoker, Nafisa Tabassum  
+Department of Computer Science and Engineering, IUB  
