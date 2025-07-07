@@ -92,4 +92,4 @@ This HCI project successfully demonstrates how a simple, voice-supported, mobile
 
 👨‍💻 **Developed by:**  
 Emon Karmoker, Nafisa Tabassum  
-Department of Computer Science and Engineering, IUB  
+Department of Computer Science and Engineering, UIU
