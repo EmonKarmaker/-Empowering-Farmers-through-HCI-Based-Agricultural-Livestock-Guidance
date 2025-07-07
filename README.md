@@ -1,0 +1,2 @@
+# -Empowering-Farmers-through-HCI-Based-Agricultural-Livestock-Guidance
+Many rural farmers struggle to access accurate, timely, and easy-to-understand information on farming and animal husbandry. This project addresses that gap by building a mobile application with user-friendly, low-tech features that are inclusive for farmers with **limited digital literacy**, **poor internet access**, and **minimal formal education.
